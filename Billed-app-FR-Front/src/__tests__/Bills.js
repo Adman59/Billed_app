@@ -12,8 +12,6 @@ import mockStore from "../__mocks__/store.js";
 import { bills } from "../fixtures/bills.js";
 import router from "../app/Router.js";
 
-// jest.mock("../app/store", () => mockStore);
-
 
 describe("When I am on Bills Page", () => {
 
